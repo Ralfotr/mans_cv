@@ -27,5 +27,5 @@ Inčukalna pamatskola\
 
 ## Pieredze programmēšanā
 - Pazīstamas programmēšanas valodas:
- - Python;
- - Roblox Lua;
+    - Python;
+    - Roblox Lua;
