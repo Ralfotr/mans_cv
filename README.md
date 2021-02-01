@@ -39,7 +39,7 @@ Inčukalna pamatskola\
 
 ## Cita pieredze
 Vairākkārtēja Latvijas Jauno Jātnieku skolas turnīru apskaņošana (pateicība);
-
+<br/>
 
 > No 2018. gada 3. decembra līdz šim brīdim
 
