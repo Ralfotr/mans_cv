@@ -1,5 +1,5 @@
 # **Mans CV**
-![My Portrait](photos\portrait.jpg)
+![My Portrait](/photos/portrait.jpg)
 
 **Vārds, uzvārds:** Kristiāns Artis Bērziņš\
 **Dzimšanas dati:** 03.12.2004.\
