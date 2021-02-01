@@ -42,11 +42,11 @@ Vairākkārtēja Latvijas Jauno Jātnieku skolas turnīru apskaņošana (pateic�
 <br/>
 <br/>
 
-> No 2018. gada 3. decembra līdz šim brīdim
+> **No 2018. gada 3. decembra līdz šim brīdim**
 
 Brīvprātīga dalība Inčukalna Tautas nama darbības uzturēšanā un popularizēšanā;
     - Gaismu un skaņu režisora palīgs;
 
-> No 2017. gada 1. septembra līdz 2020. gada 31. maijam
+> **No 2017. gada 1. septembra līdz 2020. gada 31. maijam**
 
 Mācību laikā Inčukalna pamatskolas skolēnu pašpārvaldes priekšsēdētāja vietnieks IT jautājumos;
