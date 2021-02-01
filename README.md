@@ -1,7 +1,10 @@
 # **Mans CV**
 ![My Portrait](https://i.imgur.com/zI2CQmw.png)
 
-_Kristiāns Artis Bērziņš_
+**Vārds, uzvārds:** Kristiāns Artis Bērziņš
+**Dzimšanas dati:** 03.12.2004.
+**E-pasta adrese:** kristiansberzins@outlook.lv
+**Tālruņa numurs:** +371 28758694
 
 ## Izglītība
 > **No 2020. gada 1. septembra līdz šai dienai**
@@ -16,8 +19,8 @@ Inčukalna pamatskola\
 
 
 ## Sasniegumi
-Veiksmīga dalība vairākās olimpiādēs Rīgas rajona olimpiādēs;
-Latviešu valodas un literatūras olimpiādē iegūta 3. vieta;
+- Veiksmīga dalība vairākās olimpiādēs Rīgas rajona olimpiādēs;
+    - Latviešu valodas un literatūras olimpiādē iegūta 3. vieta;
 
 
 ## Hobiji
