@@ -18,6 +18,7 @@ Inčukalna pamatskola\
 (Pabeigta 9. klašu pamatizglītība)
 
 
+
 ## Sasniegumi
 - Veiksmīga dalība vairākās olimpiādēs Rīgas rajona olimpiādēs;
     - Latviešu valodas un literatūras olimpiādē iegūta 3. vieta;
