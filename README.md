@@ -1,9 +1,9 @@
 # **Mans CV**
 ![My Portrait](https://i.imgur.com/zI2CQmw.png)
 
-**Vārds, uzvārds:** Kristiāns Artis Bērziņš
-**Dzimšanas dati:** 03.12.2004.
-**E-pasta adrese:** kristiansberzins@outlook.lv
+**Vārds, uzvārds:** Kristiāns Artis Bērziņš\
+**Dzimšanas dati:** 03.12.2004.\
+**E-pasta adrese:** kristiansberzins@outlook.lv\
 **Tālruņa numurs:** +371 28758694
 
 ## Izglītība
