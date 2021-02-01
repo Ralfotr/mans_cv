@@ -17,13 +17,15 @@ Inčukalna pamatskola\
 
 ## Sasniegumi
 Veiksmīga dalība vairākās olimpiādēs Rīgas rajona olimpiādēs;
-- Latviešu valodas un literatūras olimpiādē iegūta 3. vieta;
+Latviešu valodas un literatūras olimpiādē iegūta 3. vieta;
 
 
 ## Hobiji
+- Basketbols;
 - Riteņbraukšana (MTB);
 - IT tehnoloģijas;
 - Gaismu un skaņu režija;
+- Jaunu programmēšanas valodu izpēte un iepazīšana;
 
 
 ## Pieredze programmēšanā
